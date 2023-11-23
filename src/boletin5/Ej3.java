@@ -5,7 +5,7 @@ public class Ej3 {
 	
 	public static void area(double altura , double radio) {
 		
-		double pi = 3.14;
+		double final pi = 3.14;
 		double resultadoArea = 2 * pi * radio * (altura + radio);
 		
 		System.out.println(resultadoArea);
