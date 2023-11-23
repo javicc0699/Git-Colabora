@@ -1,0 +1,2 @@
+# Git-Colabora
+Este es el boletin 5 de los metodos. Para ver que hace cada ejercicio mira el PDF del boletin 5.
